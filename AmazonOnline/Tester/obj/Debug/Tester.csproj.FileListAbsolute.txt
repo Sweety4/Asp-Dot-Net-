@@ -1,0 +1,7 @@
+E:\.NET C#\AmazonOnline\Tester\bin\Debug\Tester.exe.config
+E:\.NET C#\AmazonOnline\Tester\bin\Debug\Tester.exe
+E:\.NET C#\AmazonOnline\Tester\bin\Debug\Tester.pdb
+E:\.NET C#\AmazonOnline\Tester\obj\Debug\Tester.csprojAssemblyReference.cache
+E:\.NET C#\AmazonOnline\Tester\obj\Debug\Tester.csproj.CoreCompileInputs.cache
+E:\.NET C#\AmazonOnline\Tester\obj\Debug\Tester.exe
+E:\.NET C#\AmazonOnline\Tester\obj\Debug\Tester.pdb
